@@ -1,7 +1,7 @@
 # Additional remarks
 
 ## Metrics
-In the slides we use the macro-average for precision, recall, f1-score, accuracy
+In the slides we use the macro-average for precision, recall, f1-score and accuracy
 
 These are the scores for match:
 
